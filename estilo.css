@@ -9,6 +9,8 @@ body {
 }
 .cabecalho{
     background-color: #DA291C;
+    display: flex;
+    justify-content: space-between;
 }
 .psg{
     background-color: white;
