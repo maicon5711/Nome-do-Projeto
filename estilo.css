@@ -17,6 +17,7 @@ body {
     align-items: center;
 }
 .psg{
+    display: flex;
     background-color: white;
     justify-content: space-between;
     padding: 15px 25px;
