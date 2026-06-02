@@ -6,19 +6,12 @@
 }
 
 body {
-    background-color: #fff895;
+    background-color: #fffef1;
     font-family: "Varela Round", sans-serif;
 }
 .cabecalho{
-    background-color: #05cf13;
+    background-color: #04b110;
     display: flex;
-    justify-content: space-between;
-    padding: 15px 25px;
-    align-items: center;
-}
-.psg{
-    display: flex;
-    background-color: rgb(55, 0, 255);
     justify-content: space-between;
     padding: 15px 25px;
     align-items: center;
