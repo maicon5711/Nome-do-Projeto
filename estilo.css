@@ -16,3 +16,11 @@ body {
     padding: 15px 25px;
     align-items: center;
 }
+
+.cartao{
+    width: 260px;
+    height: 200px;
+}
+.cartao img{
+    width: 80%;
+}
