@@ -11,7 +11,7 @@ body {
     font-family: "Varela Round", sans-serif;
 }
 .cabecalho{
-    background-color: #04b110;
+    background-color: #0051ff;
     display: flex;
     justify-content: space-between;
     padding: 15px 25px;
@@ -39,6 +39,10 @@ main{
 .cartao:hover .cartao-interno{
     transform: rotateY(180deg);
 }
+.cartao-verso{
+    transform: rotateY(180deg);
+}
+
 .cartao-frente, .cartao-verso{
     position: absolute;
     border-radius: 12px;
