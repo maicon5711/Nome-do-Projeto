@@ -49,3 +49,7 @@ main{
     box-shadow: 0 6px 12px rgb(37, 4, 222);
     backface-visibility: hidden;
 }
+section{
+    display: flex;
+    gap: 16px;
+}
