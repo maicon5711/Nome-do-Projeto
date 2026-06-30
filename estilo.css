@@ -11,7 +11,7 @@ body {
     font-family: "Varela Round", sans-serif;
 }
 .cabecalho{
-    background-color: #3700ff7b;
+    background-color: #3700ff;
     display: flex;
     justify-content: space-between;
     padding: 15px 25px;
